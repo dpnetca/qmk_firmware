@@ -1,0 +1,2 @@
+TRI_LAYER_ENABLE = no
+CyesAPS_WORD_ENABLE = yes
