@@ -16,4 +16,3 @@
 
 #define PERMISSIVE_HOLD
 #define QUICK_TAP_TERM 80
-#define RETRO_TAPPING
